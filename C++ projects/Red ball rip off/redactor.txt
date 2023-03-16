@@ -1,0 +1,45 @@
+419.921 360.561
+-700 -300
+/lava_texture.bmp 593.323 487.046 4094 173 1
+/lava_texture.bmp -1599.99 -149.96 336 1449 1
+/lava_texture.bmp 2544.01 -246.962 613 1295 1
+/lava_texture.bmp -1046.49 197.066 100 30 1
+/lava_texture.bmp -833.603 195.066 100 30 1
+/lava_texture.bmp -942.614 68.065 31 30 1
+/lava_texture.bmp -613.917 196.066 100 30 1
+/lava_texture.bmp -723.923 67.065 29 30 1
+/lava_texture.bmp -833.373 -146.736 246 400 1
+/lava_texture.bmp -1383.55 36.78 100 30 1
+/lava_texture.bmp -1007.63 -140.98 100 30 1
+/lava_texture.bmp -157.594 193.453 100 30 1
+/lava_texture.bmp 460.383 141.761 1139 131 1
+/lava_texture.bmp -128.996 40.6601 100 30 1
+/lava_texture.bmp -93.9958 63.6601 30 30 1
+/lava_texture.bmp -496.587 -273.041 422 271 1
+/lava_texture.bmp -235.581 -217.241 100 30 1
+/lava_texture.bmp -183.045 -246.139 224 30 1
+/lava_texture.bmp 233.171 -321.139 1037 123 1
+/lava_texture.bmp 823.476 -234.139 149 360 1
+/lava_texture.bmp 271.308 -38.1391 130 234 1
+/lava_texture.bmp 546.842 -38.167 125 235 1
+/lava_texture.bmp 412.17 62.9881 30 30 1
+/lava_texture.bmp 1755.9 160.671 100 30 1
+/lava_texture.bmp 1585.9 160.671 100 30 1
+/lava_texture.bmp 2095.87 291.242 30 220 1
+/lava_texture.bmp 2053.38 -227.064 371 527 1
+/lava_texture.bmp 1469.84 190.147 100 30 1
+/lava_texture.bmp 1755.82 191.147 195 30 0
+/lava_texture.bmp 1585.83 225.147 149 101 1
+/lava_texture.bmp 1585.48 -110.653 100 310 1
+/lava_texture.bmp 1426.71 -383.741 1061 241 1
+#
+/no -1433.18 342.044 -1333.15 402.044 u 1
+/no -172 54.6601 -107.992 74.6601 d 1
+/no 87.966 76.8331 205.966 -5.16699 u 1
+/no 1668.07 274 1852.07 204 d 1
+#
+/no 665.434 331.044 30 100
+/no 0 0 30 100
+#
+/no 2174.98 339 30 30 1
+#

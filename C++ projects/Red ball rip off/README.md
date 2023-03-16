@@ -1,6 +1,5 @@
 # Red ball 0
 
----
 
 ### Description:
 
@@ -20,6 +19,9 @@ complicated level redactor.
 * Level redactor
 
 ### How to run the game (only on Linux):
+
+Project uses [**SFML**](https://www.sfml-dev.org/tutorials/2.5/start-linux.php)
+as a graphic source, so make sure to install it.  
 
 Run the file from **cmake-build-debug** by left-clicking your
 mouse or with the command

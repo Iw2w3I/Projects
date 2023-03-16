@@ -1,6 +1,5 @@
 # Earthquaker
 
----
 
 ### Discription:
 
@@ -20,7 +19,7 @@ same directory as the **main.py** file
 
 * The goal is to destroy the ground and achieve 100% of destruction score.
 
-* Press **space** or **click a mouse** to increase your score.
+* Press **space** or a **left key** on your mouse to increase your score.
 You can use those points to buy upgrades from the left buttons
 or add more cracks to the ground with a **hammer**.
 

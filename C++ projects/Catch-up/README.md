@@ -4,8 +4,8 @@
 ### Description:
 
 This is game, where you are chased by green robots and try to survive
-for as long as possible. It is a test of algorithm called
-**Voronoi diagram** and path-finding algorithms. 
+for as long as possible. It is a test of **Fortune's algorithm of
+Voronoi diagram** and path-finding algorithms. 
 
 <img src="screenshots/graph.png" width="300" height="300"> <img src="screenshots/restriction.png" width="300" height="300">
 

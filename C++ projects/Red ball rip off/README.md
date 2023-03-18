@@ -9,8 +9,7 @@ reaching the end of the level. This was a semester project, so the
 game isn't polished! Enjoy the terrible grafics, hardcore levels and
 complicated level redactor.
 
-<img src="screenshots/redactor.png" width="300" height="225">
-<img src="screenshots/settings.png" width="300" height="225">
+<img src="screenshots/redactor.png" width="300" height="225"> <img src="screenshots/settings.png" width="300" height="225">
 
 ### Features
 

@@ -14,7 +14,7 @@ complicated level redactor.
 
 ### Catch-up (C++ project):
 
-This is game, where you are chased by green robots and try to survive
+This is the game, where you are chased by green robots and try to survive
 for as long as possible. It is a test of **Fortune's algorithm of
 Voronoi diagram** and path-finding algorithms.
 

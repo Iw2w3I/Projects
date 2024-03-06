@@ -18,7 +18,7 @@ The project is inspired by lichess.org amazing board redactor for chess.
 The program allows you to play chess from a custom board position and see your previous moves and board positions.
 Unfortunately, project does not support multiplayer and playing against a bot, but it already was a complicated coding challenge for me in school.
 
-<img src="C++%20projects/Chess/screenshots/redactor.png" width="300" height="225"> <img src="C++%20projects/Chess/screenshots/game.png" width="300" height="225">
+<img src="C++%20projects/Chess/screenshots/redactor.png" width="400" height="315"> <img src="C++%20projects/Chess/screenshots/game.png" width="400" height="315">
 
 
 ### Catch-up (C++ project):
